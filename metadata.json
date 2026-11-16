@@ -1,0 +1,6 @@
+{
+  "name": "رفيق الثانوية",
+  "description": "تطبيق مذاكرة أوفلاين متكامل لطلاب الثانوية العامة المصرية: جدول الدروس، المنهج الكامل، وضع التركيز وحظر المشتتات، وإشعارات تحفيزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
